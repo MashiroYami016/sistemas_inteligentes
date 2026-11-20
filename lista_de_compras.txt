@@ -1,0 +1,7 @@
+lista de compras para la practica
+
+- protoboard
+- leds
+- resistencias
+- jumpers
+- reles
